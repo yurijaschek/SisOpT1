@@ -348,7 +348,6 @@ int cyield(void)
 int cjoin(int tid)
 {
     if(init_cthread() != 0) return -1;
-    printf("cjoin with tid=%d\n", tid);
     TCB_t *tcb = find_by_tid(tid);
     if(!tcb || tcb->state == PROCST_TERMINO || tcb->wait) // Doesn't exist, has
         return -1; // finished or another one is waiting for this thread
