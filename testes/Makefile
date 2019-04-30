@@ -3,7 +3,7 @@ CC=gcc
 INC_DIR=../include
 LIB_DIR=../lib
 
-CFLAGS := -std=gnu99 -Wall -Wextra
+CFLAGS := -std=gnu99 -Wall -Wextra -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast
 
 SRCS := $(wildcard *.c)
 
