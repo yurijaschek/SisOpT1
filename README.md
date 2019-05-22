@@ -12,7 +12,7 @@ The goal is to provide a simple library for dealing with threads, in which the u
 4. Create and use semaphores to simulate shared resources
 5. Yield execution
 
-The proposed scheduler is a non-preemptive priority FIFO.
+The proposed scheduler is a non-preemptive priority FIFO. Although it supports preemptivity by changing the PREEMPTIVE to 1.
 
 ## Instructions ##
 
