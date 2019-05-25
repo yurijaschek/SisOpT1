@@ -1,11 +1,11 @@
 /*****************************************************************************
- *  Instituto de Informática - Universidade Federal do Rio Grande do Sul     *
+ *  Instituto de Informatica - Universidade Federal do Rio Grande do Sul     *
  *  INF01142 - Sistemas Operacionais I N                                     *
- *  Trabalho Prático 1 - compact thread (cthread) 2019/1                     *
+ *  Trabalho Pratico 1 - compact thread (cthread) 2019/1                     *
  *                                                                           *
- *  Nomes: 00243451 Giovane Fonseca                                          *
- *         00274744 Matheus F. Kovaleski                                     *
- *         00231592 Yuri Jaschek                                             *
+ *  Nomes: Yuri Jaschek                                                      *
+ *         Giovane Fonseca                                                   *
+ *         Matheus F. Kovaleski                                              *
  *                                                                           *
  *****************************************************************************/
 
